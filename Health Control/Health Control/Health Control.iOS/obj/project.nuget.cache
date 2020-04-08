@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GYDWGagEw3zo5mzE9q5wDBPmhGOFAdWU6Zx9QlVHSISoFrClljsc81Go3SAzL7QDrNr98TBW5voMed7XIO6mZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mauri\\Documents\\Health Control\\Health Control\\Health Control\\Health Control.iOS\\Health Control.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mauri\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
